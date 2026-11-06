@@ -26,7 +26,7 @@ Here’s a selection of what I’m working on.
 </tr>
 </table>
 
-### VALORANT MVM
+### Valorant Director
 **Private project** · Cinematic tools for creating scenes from VALORANT replays.
 
 ### VALORANT Blender
