@@ -37,9 +37,6 @@ Here’s a selection of what I’m working on.
 
 ## Side projects & earlier work
 
-[**mac-lan**](https://github.com/tbhtho/mac-lan)<br>
-Control and switch between Windows and Mac over a local network.
-
 [**FF-Sandbox**](https://github.com/tbhtho/FF-Sandbox)<br>
 A trickshot sandbox with custom loadouts, practice tools, and replay editing.
 
