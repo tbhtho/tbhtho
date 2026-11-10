@@ -12,6 +12,9 @@ An Age of Empires IV companion for player scouting, an in-game overlay, and post
 **[Advanced Music Player](https://github.com/tbhtho/Advanced-Music-Player)**<br>
 A desktop player bringing Spotify and SoundCloud into one place.
 
+**[AntiMal](https://github.com/tbhtho/Anti-Mal)** · Source preview<br>
+A local workbench for Windows malware analysis.
+
 **Valorant Director** · Private<br>
 Cinematic tools for creating scenes from VALORANT replays.
 
